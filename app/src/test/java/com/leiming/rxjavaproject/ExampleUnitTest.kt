@@ -31,4 +31,6 @@ class ExampleUnitTest {
 
         observable.notifys("今天天气温度21")
     }
+
+
 }
